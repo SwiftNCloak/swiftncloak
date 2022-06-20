@@ -12,6 +12,7 @@ console.log(statement);
 ---
 
 `{Strengths}`
+
 I am into software development/engineering, app development, frontend web development (or web design), artificial intelligence and machine learning, and game development.
 
 > `I am still fixing this Markdown introduction file so... 😅`
