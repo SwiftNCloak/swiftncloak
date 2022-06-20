@@ -9,4 +9,6 @@ let statement = "Welcome, game changer!";
 console.log(statement);
 ```
 
+---
+
 > `I am still fixing this Markdown introduction file so... 😅`
