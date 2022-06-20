@@ -8,3 +8,5 @@ My name is Marky, aka SwiftNCloak. I am an aspiring software engineer from the P
 let statement = "Welcome, game changer!";
 console.log(statement);
 ```
+
+`I am still fixing this Markdown introduction file so... 😅`
