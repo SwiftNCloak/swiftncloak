@@ -13,7 +13,7 @@ console.log(statement);
 
 `{Strengths}`
 
-I am into software development/engineering, app development, frontend web development (or web design), artificial intelligence and machine learning, and game development.
+I am into software development/engineering, app development, frontend web development (or web design), artificial intelligence and machine learning, and game development. I am still learning to improve my progress as well 😄.
 
 My coding/programming knowledge include:
 ```js
