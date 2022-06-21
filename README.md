@@ -16,12 +16,14 @@ console.log(statement);
 I am into software development/engineering, app development, frontend web development (or web design), artificial intelligence and machine learning, and game development.
 
 My coding/programming knowledge include:
-- React Native/ReactJS
-- HTML/CSS/JS
-- C#
-- C++
-- Java
-- Python
+```js
+[⦾] React Native/ReactJS
+[⦾] HTML/CSS/JS
+[⦾] C#
+[⦾] C++
+[⦾] Java
+[⦾] Python
+```
 
 ---
 
