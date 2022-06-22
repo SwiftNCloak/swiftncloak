@@ -11,6 +11,8 @@ let statement = "Welcome, game changer!";
 console.log(statement);
 ```
 
+![BADGE](https://img.shields.io/badge/LEVEL-Awesome-orange)
+
 ---
 
 `{Strengths}`
