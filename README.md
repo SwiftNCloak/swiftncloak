@@ -11,15 +11,13 @@ let statement = "Welcome, game changer!";
 console.log(statement);
 ```
 
-![BADGE](https://img.shields.io/badge/LEVEL-Awesome-orange)
-
 ---
 
 `{Strengths}`
 
 I am into software development/engineering, app development, frontend web development (or web design), artificial intelligence and machine learning, and game development. I am still learning to improve my progress as well 😄.
 
-My coding/programming knowledge include:
+My coding/programming language knowledge include:
 ```js
 [⦾] React Native/ReactJS
 [⦾] HTML/CSS/JS
@@ -29,6 +27,7 @@ My coding/programming knowledge include:
 [⦾] Python
 ```
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwiftNCloak&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwiftNCloak&show_icons=true&theme=tokyonight)
+> `I haven't really been active in GitHub. Only used Github again starting from June 19, 2022 onwards 😅.`
 
-> `I am still fixing this Markdown introduction file so... 😅`
+---
