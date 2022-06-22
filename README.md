@@ -27,7 +27,7 @@ My coding/programming language knowledge include:
 [⦾] Python
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwiftNCloak&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwiftNCloak&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwiftNCloak&show_icons=true&theme=tokyonight)
 > `I haven't really been active in GitHub. Only used Github again starting from June 19, 2022 onwards 😅.`
 
 ---
